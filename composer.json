@@ -1,5 +1,5 @@
 {
-  "name": "cmfstore/mediawiki-ext-color",
+  "name": "zmarket/mediawiki-ext-color",
   "type": "mediawiki-extension",
   "description": "MediaWiki highlight text extension.",
   "license": "MIT",
@@ -23,13 +23,13 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/mediawiki-ext-color/issues",
-    "source": "https://github.com/cmfstore/mediawiki-ext-color"
+    "issues": "https://github.com/zbox/mediawiki-ext-color/issues",
+    "source": "https://github.com/zbox/mediawiki-ext-color"
   },
   "require": {
     "php": ">=7.2",
     "composer/installers": "^1.0.1",
-    "cmfstore/mediawiki-ext-kernel": "*"
+    "zmarket/mediawiki-ext-kernel": "*"
   },
   "autoload": {
     "classmap": [
